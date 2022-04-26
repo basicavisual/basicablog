@@ -22,7 +22,7 @@ title: basicavisual
 email: ali@basicavisual.io
 description: >- # this means to ignore newlines until "baseurl:"
   Blog de tecnología, gobierno abierto, ontología de datos, filosofía, café.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "basicablog" # the subpath of your site, e.g. /blog
 url: "basicavisual.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: basicavisual
 github_username:  basicavisual
